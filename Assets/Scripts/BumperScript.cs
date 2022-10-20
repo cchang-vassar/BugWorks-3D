@@ -7,6 +7,7 @@ public class BumperScript : MonoBehaviour
     private BumperColliderScript colliderScriptF;
     private BumperColliderScript colliderScriptL;
     private BumperColliderScript colliderScriptR;
+    private string deletethislater;
     public bool collided;
 
     void Start()
